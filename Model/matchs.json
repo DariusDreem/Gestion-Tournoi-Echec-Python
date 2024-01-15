@@ -1,0 +1,1 @@
+[{"numero": 2, "joueur1": {"identifiant": 1, "nom": "Marie", "prenom": "Charles", "date_naissance": "1999-12-11", "elo": 1200}, "joueur2": {"identifiant": 2, "nom": "Moi", "prenom": "Lui", "date_naissance": "2000-12-17", "elo": 1500}, "resultat": null}]

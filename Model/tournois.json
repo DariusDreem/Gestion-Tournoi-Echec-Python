@@ -1,0 +1,239 @@
+[
+    {
+        "nom": "Oui",
+        "date": "1999-12-11",
+        "joueurs_participants": [
+            {
+                "identifiant": 1,
+                "nom": "Marie",
+                "prenom": "Charles",
+                "date_naissance": "1999-12-11",
+                "elo": 1200
+            },
+            {
+                "identifiant": 2,
+                "nom": "Moi",
+                "prenom": "Lui",
+                "date_naissance": "2000-12-17",
+                "elo": 1500
+            },
+            {
+                "identifiant": 5,
+                "nom": "Charle",
+                "prenom": "Aznavour",
+                "date_naissance": "1999",
+                "elo": 1200
+            },
+            {
+                "identifiant": 4,
+                "nom": "Saul",
+                "prenom": "Goodman",
+                "date_naissance": "1698-12-29",
+                "elo": 2
+            }
+        ],
+        "matchs": [
+            {
+                "numero": 2,
+                "joueur1": {
+                    "identifiant": 1,
+                    "nom": "Marie",
+                    "prenom": "Charles",
+                    "date_naissance": "1999-12-11",
+                    "elo": 1200
+                },
+                "joueur2": {
+                    "identifiant": 2,
+                    "nom": "Moi",
+                    "prenom": "Lui",
+                    "date_naissance": "2000-12-17",
+                    "elo": 1500
+                },
+                "resultat": "1-0"
+            }
+        ],
+        "dernier_numero_match": 1
+    },
+    {
+        "nom": "Non",
+        "date": "2000-10-20",
+        "joueurs_participants": [
+            {
+                "identifiant": 1,
+                "nom": "Marie",
+                "prenom": "Charles",
+                "date_naissance": "1999",
+                "elo": 1200
+            },
+            {
+                "identifiant": 2,
+                "nom": "Moi",
+                "prenom": "Lui",
+                "date_naissance": "2000-12-17",
+                "elo": 1500
+            }
+        ],
+        "matchs": [
+            {
+                "numero": 2,
+                "joueur1": {
+                    "identifiant": 1,
+                    "nom": "Marie",
+                    "prenom": "Charles",
+                    "date_naissance": "1999",
+                    "elo": 1200
+                },
+                "joueur2": {
+                    "identifiant": 2,
+                    "nom": "Moi",
+                    "prenom": "Lui",
+                    "date_naissance": "2000-12-17",
+                    "elo": 1500
+                },
+                "resultat": "1-0"
+            },
+            {
+                "numero": 2,
+                "joueur1": {
+                    "identifiant": 1,
+                    "nom": "Marie",
+                    "prenom": "Charles",
+                    "date_naissance": "1999",
+                    "elo": 1200
+                },
+                "joueur2": {
+                    "identifiant": 2,
+                    "nom": "Moi",
+                    "prenom": "Lui",
+                    "date_naissance": "2000-12-17",
+                    "elo": 1500
+                },
+                "resultat": null
+            },
+            {
+                "numero": 3,
+                "joueur1": {
+                    "identifiant": 1,
+                    "nom": "Marie",
+                    "prenom": "Charles",
+                    "date_naissance": "1999",
+                    "elo": 1200
+                },
+                "joueur2": {
+                    "identifiant": 2,
+                    "nom": "Moi",
+                    "prenom": "Lui",
+                    "date_naissance": "2000-12-17",
+                    "elo": 1500
+                },
+                "resultat": null
+            }
+        ],
+        "dernier_numero_match": 3
+    },
+    {
+        "nom": "gpeur",
+        "date": "2025-11-30",
+        "joueurs_participants": [
+            {
+                "identifiant": 10,
+                "nom": "Sto",
+                "prenom": "Th\u00e9o",
+                "date_naissance": "1999-11-29",
+                "elo": 900
+            },
+            {
+                "identifiant": 1,
+                "nom": "Marie",
+                "prenom": "Charles",
+                "date_naissance": "1999",
+                "elo": 1200
+            },
+            {
+                "identifiant": 2,
+                "nom": "Moi",
+                "prenom": "Lui",
+                "date_naissance": "2000-12-17",
+                "elo": 1500
+            },
+            {
+                "identifiant": 3,
+                "nom": "Jean",
+                "prenom": "Charles",
+                "date_naissance": "1896-12-11",
+                "elo": 2800
+            },
+            {
+                "identifiant": 4,
+                "nom": "Saul",
+                "prenom": "Goodman",
+                "date_naissance": "1698-12-29",
+                "elo": 2
+            },
+            {
+                "identifiant": 5,
+                "nom": "Charle",
+                "prenom": "Aznavour",
+                "date_naissance": "1999",
+                "elo": 1200
+            }
+        ],
+        "matchs": [
+            {
+                "numero": 2,
+                "joueur1": {
+                    "identifiant": 3,
+                    "nom": "Jean",
+                    "prenom": "Charles",
+                    "date_naissance": "1896-12-11",
+                    "elo": 2800
+                },
+                "joueur2": {
+                    "identifiant": 2,
+                    "nom": "Moi",
+                    "prenom": "Lui",
+                    "date_naissance": "2000-12-17",
+                    "elo": 1500
+                },
+                "resultat": null
+            },
+            {
+                "numero": 3,
+                "joueur1": {
+                    "identifiant": 1,
+                    "nom": "Marie",
+                    "prenom": "Charles",
+                    "date_naissance": "1999",
+                    "elo": 1200
+                },
+                "joueur2": {
+                    "identifiant": 5,
+                    "nom": "Charle",
+                    "prenom": "Aznavour",
+                    "date_naissance": "1999",
+                    "elo": 1200
+                },
+                "resultat": null
+            },
+            {
+                "numero": 4,
+                "joueur1": {
+                    "identifiant": 10,
+                    "nom": "Sto",
+                    "prenom": "Th\u00e9o",
+                    "date_naissance": "1999-11-29",
+                    "elo": 900
+                },
+                "joueur2": {
+                    "identifiant": 4,
+                    "nom": "Saul",
+                    "prenom": "Goodman",
+                    "date_naissance": "1698-12-29",
+                    "elo": 2
+                },
+                "resultat": null
+            }
+        ],
+        "dernier_numero_match": 4
+    }
+]
